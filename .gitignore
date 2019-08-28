@@ -1,0 +1,5 @@
+__pycache__
+.ionide
+.vscode
+node_modules
+static/bundle.js
